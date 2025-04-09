@@ -14,3 +14,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Learning Github!";
 ```
+
+- [ ] This is not Hard
+- [ ] Going good so far
+- [ ] Github can be fun
